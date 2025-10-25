@@ -263,7 +263,7 @@ Distribuído sob a licença **MIT**. Veja `LICENSE` para mais informações.
 ## ✨ Autor
 
 **Eduardo Caversan**
-Desenvolvedor Fullstack • Líder técnico na Adven.Tech
+Software Engineer
 [GitHub](https://github.com/EduardoCaversan) | [LinkedIn](https://linkedin.com/in/deveduardocaversan)
 
 -----
