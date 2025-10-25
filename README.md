@@ -49,8 +49,8 @@ Tudo será criado automaticamente:
 Clone este repositório e execute o script principal:
 
 ```bash
-git clone https://github.com/seuusuario/dotnet-easystarter-cli.git
-cd dotnet-easystarter-cli
+git clone https://github.com/seuusuario/dotnet-easy.git
+cd dotnet-easy
 python dotnet_easy_full_v2.py
 ```
 
